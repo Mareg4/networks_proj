@@ -1,8 +1,8 @@
 #           README.TXT
 #
-#   André Rodrigues     106148
-#   Afonso Antunes      106242
-#   Pedro Marques       106550
+#   André Rodrigues     
+#   Afonso Antunes      
+#   Pedro Marques      
 #
 
 O SB_file_num.txt eh uma forma de guardar o numero do ficheiro SB 
